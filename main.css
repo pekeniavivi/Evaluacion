@@ -1,0 +1,60 @@
+.navbar-custom {
+  background-color: #363637;
+  color: #FFFFFF;
+}
+
+.navbar-brand {
+ color: #FFFFFF;
+ font-size:30px;
+}
+
+a{
+  color:  #FFFFFF;
+}
+
+.foto{
+	position:relative;
+}
+
+
+.foto p{
+	position:absolute;
+	bottom:100px;
+	width:100%;
+	text-align:center;
+	color:rgba(243,243,243,.8);
+	font-family:Verdana;
+	font-size:40px;
+	background-color:rgba(0,0,0,.7);
+	padding:.10em 0;
+}
+
+#contenedor_principal{
+width:1024px;
+height:auto;
+position:relative;
+margin:auto;
+}
+.contenedor_imagen_texto{
+width:335px;
+height:auto;
+margin-top:15px;
+position:relative;
+display:inline-block;
+vertical-align:top;
+overflow:hidden;
+}
+.imagen, .texto{
+width:100%;
+height:auto;
+position:relative;
+display:inline;
+}
+.texto{
+height:auto;
+text-align:center;
+float:left;
+}
+
+
+
